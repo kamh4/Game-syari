@@ -1,0 +1,20 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+build/
+pubspec.lock
+
+# Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+*.bak
+
+# VS Code
+.vscode/
+
+# Keystore (jangan dibagikan)
+*.jks
+key.properties
