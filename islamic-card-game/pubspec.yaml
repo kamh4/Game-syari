@@ -1,0 +1,18 @@
+
+name: islamic_card_game
+description: Game kartu edukasi Islami
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/card_back.png
+    - assets/huruf_alif.png
+    - assets/huruf_ba.png
